@@ -1,6 +1,6 @@
 
 ## Path principal
-* [Entidades del Software Development](https://github.com/thelerningproject/poplearn/wiki/Software-Development)
+* [Software Development](https://github.com/thelerningproject/poplearn/wiki/Software-Development)
 * Introducción a la programación
 * Enviroment / Development Tools
 * * Git
