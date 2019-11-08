@@ -5,6 +5,9 @@ Este curso va consistir en un path princinpal el cual todos seguiremos una vez t
 ## Path principal
 * Entidades del Software Development
 * Introducción a la programación
+* Enviroment / Development Tools
+* * Git
+* * Docker
 * Intro to Web Development
 * HTML/CSS
 * Javascript
