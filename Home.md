@@ -11,7 +11,7 @@ Este curso va consistir en un path princinpal el cual todos seguiremos una vez t
 * POO
 * Software Testing 
 * * QA
-* * UI Testing / Aumated testing
+* * UI Testing / automated testing
 * * Unit Testing
 * CI/CD
 * * Jenkins
