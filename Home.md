@@ -9,6 +9,14 @@ Este curso va consistir en un path princinpal el cual todos seguiremos una vez t
 * HTML/CSS
 * Javascript
 * POO
+* Security (Web oriented)
+* * Encription 
+* * Hashing
+* * CROS CRSS
+* * SQL INJECTION
+* * XSS
+* * JWT
+* * OAUTH / OPENID
 * Software Testing 
 * * QA
 * * UI Testing / automated testing
@@ -33,4 +41,7 @@ This section is underdevelopment
 This section is underdevelopment
 
 ## UI/UX Designer Path
+This section is underdevelopment
+
+## Fundamentals Computer Sience
 This section is underdevelopment
