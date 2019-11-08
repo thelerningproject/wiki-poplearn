@@ -16,3 +16,21 @@ Este curso va consistir en un path princinpal el cual todos seguiremos una vez t
 * CI/CD
 * * Jenkins
 * * Docker
+
+## Front-end Development Path
+This section is underdevelopment
+
+## Back-end Development Path
+This section is underdevelopment
+
+## QA Path
+This section is underdevelopment
+
+## Devops Path
+This section is underdevelopment
+
+## Project Mannager Path
+This section is underdevelopment
+
+## UI/UX Designer Path
+This section is underdevelopment
