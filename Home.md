@@ -1,1 +1,1 @@
-Welcome to the poplearn wiki!
+Bienvenidos thelearningproject este projecto esta disenado para ser una comunidad, donde todo el mundo colabore y pueda desarrollarse en su area preferida del software development Orientandolo de una manera practiva
