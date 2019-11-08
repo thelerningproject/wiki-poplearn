@@ -29,7 +29,7 @@ This section is underdevelopment
 ## Devops Path
 This section is underdevelopment
 
-## Project Mannager Path
+## Project Manager Path
 This section is underdevelopment
 
 ## UI/UX Designer Path
