@@ -12,8 +12,8 @@ Este curso va consistir en un path princinpal el cual todos seguiremos una vez t
 * HTML/CSS
 * Javascript
 * POO
-* * Security (Web oriented)
-* * Encription  * *
+* Security (Web oriented)
+* * Encription
 * * Hashing
 * * CROS CRSS
 * * SQL INJECTION
