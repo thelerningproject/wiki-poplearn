@@ -10,6 +10,9 @@ Este curso va consistir en un path princinpal el cual todos seguiremos una vez t
 * Javascript
 * POO
 * Software Testing 
-** QA
-* * sdf
+* * QA
+* * UI Testing / Aumated testing
+* * Unit Testing
 * CI/CD
+* * Jenkins
+* * Docker
