@@ -9,5 +9,7 @@ Este curso va consistir en un path princinpal el cual todos seguiremos una vez t
 * HTML/CSS
 * Javascript
 * POO
-* Software Testing  * QA
+* Software Testing 
+** QA
+* * sdf
 * CI/CD
