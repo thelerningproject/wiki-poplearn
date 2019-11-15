@@ -1,6 +1,8 @@
 Bienvenidos **thelearningproject** este proyecto esta diseñado para ser una comunidad, donde todo el mundo colabore y pueda desarrollarse en su área preferida del software.
 
-Este curso va consistir en un path inicial el cual todos seguiremos una vez terminado este se  dividira en diferentes paths mas especializados los cuales pueden podran eleguir segun entiendan es mas adecuado a sus habilidades. 
+Este curso va consistir en un path inicial el cual todos seguiremos una vez terminado este se  dividira en diferentes paths mas especializados los cuales pueden podran eleguir segun entiendan es mas adecuado a sus habilidades.
+
+Actualmente yo @LuisDavis los estare guiando como coach pero la idea es que en un futuro la comunidad se mueva sola y pueda continuar ayudandose a si misma.
 
 ## Inicio
 * [Procedimientos y Horarios](https://github.com/thelerningproject/poplearn/wiki/Procedimiento-y-Horarios)
