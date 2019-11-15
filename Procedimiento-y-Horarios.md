@@ -5,3 +5,9 @@ recordar que esta comunidad/proyecto tiene como objetivo el crecimiento de todos
 
 la idea es que apartir de esta wiki cualquier persona que desee inicializarse en el mundo del development pueda estudiar desde su casa sin tener que ir a un curso de manera presencial, al principio cada uno creara un projecto de iniciacion el cual le permitira entender mejor las diferentes areas que hay y luego podra especializarse en el path que mas le convenga ademas de que tendremos otro projecto en conjunto el cual lanzaremos al aire para que el publico lo utilize ese projecto tendra todos los estandares que se siguen en el mundo labroal del software lo que les permitira tener un mejor entendimeinto del mismo y la capacidad de buscar trabajo en el area.
 
+## Entonces como procedemos
+
+- Primero que nada si aun no lo tienes es recomendable que configures tu enviroment con las herramientas que vas a necesitar
+- por ahora todos los projectos de cada quien se guardaran en este repo dentro del directorio project-submissions
+ y el formato que utilizaran sera el siguiente para subir sus projectos project-submissions/<nombredeusuario>/<NombreEjercicio>
+
