@@ -1,4 +1,4 @@
-Bienvenidos **thelearningproject** este proyecto esta diseñado para ser una comunidad, donde todo el mundo colabore y pueda desarrollarse en su área preferida del software development.
+Bienvenidos **thelearningproject** este proyecto esta diseñado para ser una comunidad, donde todo el mundo colabore y pueda desarrollarse en su área preferida del software.
 
 Este curso va consistir en un path inicial el cual todos seguiremos una vez terminado este se  dividira en diferentes paths mas especializados los cuales pueden podran eleguir segun entiendan es mas adecuado a sus habilidades. 
 
