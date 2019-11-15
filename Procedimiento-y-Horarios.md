@@ -9,5 +9,5 @@ la idea es que apartir de esta wiki cualquier persona que desee inicializarse en
 
 - Primero que nada si aun no lo tienes es recomendable que **configures tu enviroment** con las herramientas que vas a necesitar
 - por ahora todos los projectos de cada quien se guardaran en este repo dentro del directorio **project-submissions**
- y el formato que utilizaran sera el siguiente para subir sus projectos `project-submissions/<nombredeusuario>/<NombreEjercicio>`
+ y el formato que utilizaran sera el siguiente para subir sus projectos `project-submissions/<NombreDeUsuario>/<NombreEjercicio>`
 
