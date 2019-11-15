@@ -3,7 +3,7 @@ Bienvenidos **thelearningproject** este proyecto esta diseñado para ser una com
 Este curso va consistir en un path inicial el cual todos seguiremos una vez terminado este se  dividira en diferentes paths mas especializados los cuales pueden podran eleguir segun entiendan es mas adecuado a sus habilidades. 
 
 ## Inicio
-* Procedimiento y Horarios
+* [Procedimientos y Horarios](https://github.com/thelerningproject/poplearn/wiki/Procedimiento-y-Horarios)
 * Setting your environment (suggestions)
 * How to summit and exercise
 * Quick intro to code
