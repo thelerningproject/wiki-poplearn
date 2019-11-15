@@ -36,6 +36,8 @@ Actualmente yo @LuisDavis los estare guiando como coach pero la idea es que en u
 * * Jenkins
 * * Docker
 
+Perdon por el spanglish pero la realidad es que tantas cosas se consumen en ingles en esta area que se me es un poco dificil hacer traducciones  
+
 
 ## Front-end Development Path
 This section is underdevelopment
