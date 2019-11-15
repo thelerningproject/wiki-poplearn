@@ -7,7 +7,7 @@ Actualmente yo @LuisDavis los estare guiando como coach pero la idea es que en u
 ## Inicio
 * [Procedimientos y Horarios](https://github.com/thelerningproject/poplearn/wiki/Procedimiento-y-Horarios)
 * [Setting your environment](https://github.com/thelerningproject/poplearn/wiki/Setting-your-environment) (suggestions)
-* [How to submmit and exercise](https://github.com/thelerningproject/poplearn/wiki/How-to-submmit-and-exercise)
+* [How to submmit an exercise](https://github.com/thelerningproject/poplearn/wiki/How-to-submmit-and-exercise)
 * Quick intro to code
 
 ## Path principal
