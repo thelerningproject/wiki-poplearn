@@ -2,6 +2,9 @@ Bienvenidos **thelearningproject** este proyecto esta diseñado para ser una com
 
 Este curso va consistir en un path princinpal el cual todos seguiremos una vez terminado este se  dividira en diferentes paths mas especializados los cuales pueden podran eleguir seguen entiendan es mas adecuado a sus habilidades. 
 
+
+
+
 ## Path principal
 * [Software Development](https://github.com/thelerningproject/poplearn/wiki/Software-Development)
 * Introducción a la programación
