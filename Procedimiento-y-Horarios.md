@@ -1,0 +1,5 @@
+Este curso es un curso semi presencial, donde practicamente nos veremos aprox 1 vez al mes para aclarar dudas, workshops y presentaciones las cuales podrian ser echas por cualquiera de la comunidad que se entienda domine del tema.
+
+recordar que esta comunidad/proyecto tiene como objetivo el crecimiento de todos ypara poder lograrlo todos debemos colabrar poniendo de su parte para aprender y ayudando a su companero.
+
+la idea es que apartir de esta wiki cualquier persona que desee inicializarse en el mundo del development pueda estudiar desde su casa sin tener que ir a un curso de manera presencial, al principio cada uno creara un projecto de iniciacion el cual le permitira entender mejor las diferentes areas que hay y luego podra especializarse en el path que mas le convenga ademas de que tendremos otro projecto en conjunto el cual lanzaremos al aire para que el publico lo utilize ese projecto tendra todos los estandares que se siguen en el mundo labroal del software lo que les permitira tener un mejor entendimeinto del mismo y la capacidad de buscar trabajo en el area.
