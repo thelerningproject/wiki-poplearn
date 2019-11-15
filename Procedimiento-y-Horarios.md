@@ -8,6 +8,7 @@ la idea es que a partir de esta wiki cualquier persona que desee inicializarse e
 ## Entonces como procedemos?
 
 - Primero que nada si aun no lo tienes es recomendable que **configures tu enviroment** con las herramientas que vas a necesitar
+- Usaran git para trackear sus ejericios/proyectos y los subiran a este repo de github creando un pull request.
 - Por ahora todos los projectos de cada quien se guardaran en este repo dentro del directorio **project-submissions**
  y el formato que utilizaran sera el siguiente para subir sus projectos `project-submissions/<NombreDeUsuario>/<NombreEjercicio>`
 
